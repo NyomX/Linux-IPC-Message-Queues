@@ -1,4 +1,4 @@
-## Name : SHYAM SUJIN U
+## Name : Sandeep V
 ## Reg no : 212223040201
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
@@ -86,7 +86,8 @@ return 0;
 ```
 
 ## OUTPUT
-![image](https://github.com/Shyamsujin/Linux-IPC-Message-Queues/assets/144870449/252b2560-285c-49ef-b0b3-d33200592ed9)
+![image](https://github.com/NyomX/Linux-IPC-Message-Queues/assets/145953580/930db769-636e-4b72-8e13-90390ca5d5a2)
+
 
 
 
